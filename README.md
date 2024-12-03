@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning JavaScript
 - 💞️ I'm looking to collaborate on an internship
 - 📫 How to contact me: derykalcinodasilva@icloud.com
-- 😄 Pronouns: Dk, Deryk...
+- 😄 Pronouns: DK, Deryk...
 - ⚡ Fun fact: I already understand HTML and CSS.
 
 <!---
