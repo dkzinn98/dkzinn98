@@ -4,7 +4,7 @@ Atualmente, estou com foco nos estudos em Python e Desenvolvimento Web: HTML, CS
 - 📫 Você pode entrar em contato comigo através do e-mail: derykalcinodasilva@icloud.com
 - 📫 E também entrar em contato comigo pelo linkedin: https://www.linkedin.com/in/deryk-silva-235058319/
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=ocean_dark"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=neon"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/> 
 
 
 ## 💻 Minhas habilidades: 
