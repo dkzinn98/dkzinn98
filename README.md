@@ -7,7 +7,7 @@ Atualmente, estou com foco nos estudos em Python e Desenvolvimento Web: HTML, CS
 
 💻 Estudando:
 
-![py](https://github.com/dkzinn98/dkzinn98/blob/main/python.png) ![HTML](https://github.com/dkzinn98/dkzinn98/blob/main/html.png)  ![CSS](https://github.com/dkzinn98/dkzinn98/blob/main/css.png) ![JS](https://github.com/dkzinn98/dkzinn98/blob/main/javascript.png) ![React](https://github.com/dkzinn98/dkzinn98/blob/main/react.png) ![GitHub](https://github.com/dkzinn98/dkzinn98/blob/main/github%20(1).png) ![Figma](https://github.com/dkzinn98/dkzinn98/blob/main/figma.png) 
+![py](https://github.com/dkzinn98/dkzinn98/blob/main/python.png) ![HTML](https://github.com/dkzinn98/dkzinn98/blob/main/html.png)  ![CSS](https://github.com/dkzinn98/dkzinn98/blob/main/css.png) ![JS](https://github.com/dkzinn98/dkzinn98/blob/main/javascript.png) ![NodeJS](https://github.com/dkzinn98/dkzinn98/blob/main/node-js%20(2).png) ![React](https://github.com/dkzinn98/dkzinn98/blob/main/react.png) ![GitHub](https://github.com/dkzinn98/dkzinn98/blob/main/github%20(1).png) ![Figma](https://github.com/dkzinn98/dkzinn98/blob/main/figma.png) 
 
 
 
