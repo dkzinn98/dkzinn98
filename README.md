@@ -5,21 +5,10 @@ Atualmente, estou com foco nos estudos em Python e Desenvolvimento Web: HTML, CS
 - 📫 Você pode entrar em contato comigo através do e-mail: derykalcinodasilva@icloud.com
 - 📫 E também entrar em contato comigo pelo linkedin: https://www.linkedin.com/in/deryk-silva-235058319/
 
-💻 Estudando:
+## 💻 Minhas habilidades:
 
-![py](https://github.com/dkzinn98/dkzinn98/blob/main/python.png) ![HTML](https://github.com/dkzinn98/dkzinn98/blob/main/html.png)  ![CSS](https://github.com/dkzinn98/dkzinn98/blob/main/css.png) ![JS](https://github.com/dkzinn98/dkzinn98/blob/main/javascript.png) ![NodeJS](https://github.com/dkzinn98/dkzinn98/blob/main/node-js%20(2).png) ![React](https://github.com/dkzinn98/dkzinn98/blob/main/react.png) ![GitHub](https://github.com/dkzinn98/dkzinn98/blob/main/github%20(1).png) ![Figma](https://github.com/dkzinn98/dkzinn98/blob/main/figma.png) 
+![py](https://github.com/dkzinn98/dkzinn98/blob/main/python.png) ![HTML](https://github.com/dkzinn98/dkzinn98/blob/main/html.png)  ![CSS](https://github.com/dkzinn98/dkzinn98/blob/main/css.png) ![JS](https://github.com/dkzinn98/dkzinn98/blob/main/javascript.png) ![GitHub](https://github.com/dkzinn98/dkzinn98/blob/main/github%20(1).png) ![Figma](https://github.com/dkzinn98/dkzinn98/blob/main/figma.png) 
 
-## 
+## 📚 Estudando: 
 
-## Hello, my name is Deryk Silva.
-
-I have been in the technology field for over 4 years and I am always looking for new learning and discoveries.
-
-I am currently focusing on studying Python and Web Development: HTML, CSS, JavaScript and React.
-
-- 📫 You can contact me via email: derykalcinodasilva@icloud.com
-- 📫 And also contact me via linkedin: https://www.linkedin.com/in/deryk-silva-235058319/
-
-💻 Studying:
-
-![py](https://github.com/dkzinn98/dkzinn98/blob/main/python.png) ![HTML](https://github.com/dkzinn98/dkzinn98/blob/main/html.png) ![CSS](https://github.com/dkzinn98/dkzinn98/blob/main/css.png) ![JS](https://github.com/dkzinn98/dkzinn98/blob/main/javascript.png) ![NodeJS](https://github.com/dkzinn98/dkzinn98/blob/main/node-js%20(2).png) ![React](https://github.com/dkzinn98/dkzinn98/blob/main/react.png) ![GitHub](https://github.com/dkzinn98/dkzinn98/blob/main/github%20(1).png) ![Figma](https://github.com/dkzinn98/dkzinn98/blob/main/figma.png)
+![JS](https://github.com/dkzinn98/dkzinn98/blob/main/javascript.png) ![NodeJS](https://github.com/dkzinn98/dkzinn98/blob/main/node-js%20(2).png) ![React](https://github.com/dkzinn98/dkzinn98/blob/main/react.png)
