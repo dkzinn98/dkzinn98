@@ -7,5 +7,5 @@ E também entrar em contato comigo pelo linkedin: https://www.linkedin.com/in/de
 Meu Site - Portfólio:
 https://portfolio-alinehenriques.netlify.app/
 
-💻 Estudando:
-JavaScript Python Figma CSS3 HTML5 GitHub
+
+💻 Estudando: JavaScript Python CSS3 HTML5 GitHub React
