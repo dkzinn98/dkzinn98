@@ -1,6 +1,6 @@
 ## Hello, my name is Deryk Silva.
-I have been in the technology field for over 4 years and I am always looking for new learning and discoveries.
-I am currently focusing on studying Python and Web Development: HTML, CSS, JavaScript and React.
+I've been in the technology field for over 4 years and I'm always looking for new learning and discoveries.
+I'm currently focusing on studying Python and Web Development: HTML, CSS, JavaScript, NodeJS and React.
 - 📫 You can contact me via email: derykalcinodasilva@icloud.com
 - 📫 You can also contact me via linkedin: https://www.linkedin.com/in/deryk-silva-235058319/
 
