@@ -12,3 +12,6 @@ I'm currently focusing on studying Python and Web Development: HTML, CSS, JavaSc
 ## 📚 Studying:
 
 ![JS](https://github.com/dkzinn98/dkzinn98/blob/main/javascript.png) ![NodeJS](https://github.com/dkzinn98/dkzinn98/blob/main/node-js%20(2).png) ![React](https://github.com/dkzinn98/dkzinn98/blob/main/react.png)
+
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/dkzinn98/count.svg" /></p>
