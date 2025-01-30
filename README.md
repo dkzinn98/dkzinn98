@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ead3&height=120&section=header"/>
 
-[![dk](https://readme-typing-svg.herokuapp.com/?color=ff1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Alcino+da+Silva;I+study+analysis+and+systems+development+at+UniFatecie;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![dk](https://readme-typing-svg.herokuapp.com/?color=ff1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development+at+UniFatecie;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=neon"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
