@@ -5,6 +5,7 @@
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=ocean_dark"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=92D533&color=774E9C&line=774E9C&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
