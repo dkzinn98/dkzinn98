@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=774D9C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#A177FF&height=120&section=header"/>
 
-[![dk](https://readme-typing-svg.herokuapp.com/?color=92D533&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
+[![dk](https://readme-typing-svg.herokuapp.com/?color=60FFCA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=ocean_dark"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=aura"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=92D533&color=774E9C&line=774E9C&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=60FFCA&color=774E9C&line=774E9C&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dkzinn98&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
