@@ -3,7 +3,7 @@
 [![dk](https://readme-typing-svg.herokuapp.com/?color=60FFCA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=aura"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=panda"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
