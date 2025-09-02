@@ -7,7 +7,8 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=8C67DB&color=F0E785&line=F0E785&point=E53D8F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=8C67DB&color=367A67&line=F0E785&point=367A67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</!-->
 
 <!-- p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dkzinn98&theme=aura&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -15,7 +16,7 @@
  
 ### 💻 My skills:
  ![JS](https://github.com/user-attachments/assets/91e7b254-13e0-40de-9fa2-0346bf73e697) ![TS](https://github.com/user-attachments/assets/0c131aaa-b4df-4065-b713-719c47e2e14e)
- ![REACT](https://github.com/user-attachments/assets/8f28bce1-b137-42d5-bbdd-de588556c8ba) ![NodeJS](https://github.com/user-attachments/assets/e0882931-2ac8-4c3f-a25a-9c54eaa304c3) ![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de) ![MongoDB](https://github.com/user-attachments/assets/9facdd34-5339-44b3-a0eb-964c4b86e1fa)
+ ![REACT](https://github.com/user-attachments/assets/8f28bce1-b137-42d5-bbdd-de588556c8ba) ![NodeJS](https://github.com/user-attachments/assets/e0882931-2ac8-4c3f-a25a-9c54eaa304c3) ![PHP](https://github.com/user-attachments/assets/a8522f90-602c-4fc6-b02e-8d2fee07ce4d) ![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de) ![MongoDB](https://github.com/user-attachments/assets/9facdd34-5339-44b3-a0eb-964c4b86e1fa)
 
  
 ### 📚 Studying in this moment:
