@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8C67DB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67235A&height=120&section=header"/>
 
-[![dk](https://readme-typing-svg.herokuapp.com/?color=53D3A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
+[![dk](https://readme-typing-svg.herokuapp.com/?color=67235A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=aura"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=synthwave"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
@@ -11,7 +11,7 @@
 </!-->
 
 <!-- p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dkzinn98&theme=aura&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dkzinn98&theme=synthwave&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> </!-->
  
 ### 💻 My skills:
