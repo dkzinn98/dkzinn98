@@ -20,7 +20,7 @@
 
  
 ### 📚 Studying in this moment:
-![PHP](https://github.com/user-attachments/assets/a8522f90-602c-4fc6-b02e-8d2fee07ce4d)
+![PHP](https://github.com/user-attachments/assets/a8522f90-602c-4fc6-b02e-8d2fee07ce4d) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de)
 
 
 I've been in the technology field for over 4 years and I'm always looking for new learning and discoveries.
