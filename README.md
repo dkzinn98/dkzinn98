@@ -1,18 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67235A&height=120&section=header"/>
 
-[![dk](https://readme-typing-svg.herokuapp.com/?color=67235A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CDB8&height=120&section=header"/>
+
+[![dk](https://readme-typing-svg.herokuapp.com/?color=FF449F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=16&theme=synthwave"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinn98&layout=compact&langs_count=6&theme=neon"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinn98&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=8C67DB&color=367A67&line=F0E785&point=367A67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</!-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=00CDB8&color=FF449F&line=FF449F&point=010408&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dkzinn98&theme=synthwave&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> </!-->
  
 ### 💻 My skills:
  ![JS](https://github.com/user-attachments/assets/91e7b254-13e0-40de-9fa2-0346bf73e697) ![TS](https://github.com/user-attachments/assets/0c131aaa-b4df-4065-b713-719c47e2e14e)
@@ -20,16 +18,15 @@
 
  
 ### 📚 Studying in this moment:
-![PHP](https://github.com/user-attachments/assets/a8522f90-602c-4fc6-b02e-8d2fee07ce4d) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de)
+![TS](https://github.com/user-attachments/assets/0c131aaa-b4df-4065-b713-719c47e2e14e) ![PHP](https://github.com/user-attachments/assets/a8522f90-602c-4fc6-b02e-8d2fee07ce4d) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de)
 
 
-I've been in the technology field for over 4 years and I'm always looking for new learning and discoveries.
-I'm currently focusing on studying Python and Web Development: HTML, CSS, JavaScript, NodeJS and React.
+I've been in the technology field for over 5 years and I'm always looking for new learning and discoveries.
+I'm currently focusing on studying Python and Web Development: TSX, PHP and Laravel.
 - 📫 You can contact me via email: derykalcinodasilva@icloud.com
 - 📫 You can also contact me via [LinkedIn](https://www.linkedin.com/in/deryk-silva/)
 
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/dkzinn98/count.svg" /></p>
 
 <div align="center">  
 <a href="https://www.instagram.com/dkode.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
