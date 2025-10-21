@@ -1,5 +1,3 @@
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010409&height=120&section=header"/>
 
 [![dk](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
@@ -10,6 +8,8 @@
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=010409&color=9745F5&line=9745F5&point=BE01E0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://raw.githubusercontent.com/dkzinn98/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"/>
 
  
 ### 💻 My skills:
