@@ -18,7 +18,7 @@
 
  
 ### 📚 Studying in this moment:
-<img src="https://github.com/dkzinn98/dkzinn98/blob/main/javasvg.svg" alt="JAVA" width="50" height="50" /> <img src="https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de" alt="PostgreSQL" width="48" height="48" />
+<img src="https://github.com/dkzinn98/dkzinn98/blob/main/javasvg.svg" alt="JAVA" width="50" height="50" />
 
 
 I've been in the technology field for over 5 years and I'm always looking for new learning and discoveries.
