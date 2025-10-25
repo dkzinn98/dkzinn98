@@ -9,7 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkzinn98&bg_color=010409&color=9745F5&line=9745F5&point=BE01E0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width=100% src="https://raw.githubusercontent.com/dkzinn98/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"/>
+<!-- <img width=100% src="https://raw.githubusercontent.com/dkzinn98/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"/> -->
 
  
 ### 💻 My skills:
